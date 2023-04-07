@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Piyush
 #### I am an Aspiring Data Scientist
-![I am an Aspiring Data Scientist](https://www.canva.com/design/DAFaSlZcCSs/nUXHOTjqA1zj7NvG3XT4yQ/edit?utm_content=DAFaSlZcCSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+![Piyush More (2)](https://user-images.githubusercontent.com/78916771/230539819-98d455e5-1a51-44bc-93bb-562e7ad479c4.png)
+
 
 I am a recent computer science graduate with overall CGPA of 8.00.
 I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas, Numpy, MySql, MS Excel, Tableau.

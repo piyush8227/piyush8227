@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Piyush
+#### I am an Aspiring Data Scientist
+![I am an Aspiring Data Scientist](https://www.canva.com/design/DAFaSlZcCSs/nUXHOTjqA1zj7NvG3XT4yQ/edit?utm_content=DAFaSlZcCSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!--
-**piyush8227/piyush8227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent computer science graduate with overall CGPA of 8.00.
+I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas, Numpy, MySql, MS Excel, Tableau.
+I am a team player with excellent interpersonal skills, a positive attitude and analytical skills.
+I am passionate about the field and always eager to learn more, I love traveling, sketching and designing.
 
-Here are some ideas to get you started:
+Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | VS Code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Data Science 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush8227)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyushmore9034/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/piyushm8227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Piyush_9034)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush8227)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/piyush8227)  

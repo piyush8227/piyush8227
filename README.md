@@ -1,15 +1,14 @@
 ### Hi there 👋, my name is Piyush
 #### I am an Aspiring Data Scientist
 
-![Piyush More (2)](https://user-images.githubusercontent.com/78916771/230539819-98d455e5-1a51-44bc-93bb-562e7ad479c4.png)
-
+![LinkedIn cover](https://github.com/piyush8227/piyush8227/assets/78916771/ae43308c-ae47-4f21-a749-57c35f154a73)
 
 I am a recent computer science graduate with overall CGPA of 8.00.
 I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas, Numpy, MySql, MS Excel, Tableau.
 I am a team player with excellent interpersonal skills, a positive attitude and analytical skills.
 I am passionate about the field and always eager to learn more, I love traveling, sketching and designing.
 
-Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | VS Code 
+Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | Power BI | VS Code 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 

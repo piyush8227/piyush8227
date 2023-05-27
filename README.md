@@ -4,7 +4,7 @@
 ![LinkedIn cover](https://github.com/piyush8227/piyush8227/assets/78916771/ae43308c-ae47-4f21-a749-57c35f154a73)
 
 I am a recent computer science graduate with overall CGPA of 8.00.
-I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas, Numpy, MySql, MS Excel, Tableau.
+I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas, Numpy, MySql, MS Excel, Tableau, and Power BI.
 I am a team player with excellent interpersonal skills, a positive attitude and analytical skills.
 I am passionate about the field and always eager to learn more, I love traveling, sketching and designing.
 
@@ -19,3 +19,16 @@ Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | Power BI | VS Code
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush8227)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/piyush8227)  
+
+#### Here are some of my latest projects I am working on!
+
+# Portfolio Projects
+
+1. [Data Science Salaries 2023 Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Data%20Science%20Salaries%202023)
+1. [Premier League Club Investment Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Premier-League-Club-Investment)
+2. [Diwali Sales Analysis Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Diwali%20Sales%20Data)
+3. [Madhav Ecommerce sales](https://github.com/piyush8227/Portfolio_Projects/tree/main/Madhav%20Ecommerce%20Sales)
+4. [Airbnb House renting data analysis project.](https://github.com/piyush8227/Portfolio_Projects/tree/main/Airbnb)
+5. [International Debt statistics](https://github.com/piyush8227/Portfolio_Projects/tree/main/Analyze_International_Debt_Statistics)
+6. [Banking Customer Churn Data Analysis Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Banking)
+7. [Gym Exercise analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Gym%20Data)

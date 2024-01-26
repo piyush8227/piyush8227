@@ -8,9 +8,8 @@ I have experience using technologies such as Python, Ruby on Rails, SQL, Pandas,
 I am a team player with excellent interpersonal skills, a positive attitude and analytical skills.
 I am passionate about the field and always eager to learn more, I love traveling, sketching and designing.
 
-Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | Power BI | VS Code 
+Skills: Python | SQL | MySQL | Machine Learning | Deep Learning | MS-Excel | Tableau | Power BI | VS Code 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 
 
 
@@ -23,13 +22,14 @@ Skills: Python | Ruby | SQL | MySQL | MS-Excel | Tableau | Power BI | VS Code
 # [Portfolio_Projects](https://github.com/piyush8227/Portfolio_Projects)
 
 1. [Music Generation with RNN Model](https://github.com/piyush8227/Portfolio_Projects/tree/main/Music%20Generation%20With%20Character%20RNN)
-2. [Deep Harvest: Deep Learning Approaches for Rice Grain Classification](https://github.com/piyush8227/Rice-Grain-Image-Classification-Task)
-3. [Hotel Resevation Classification Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Hotel%20Reservation%20Project)
-4. [Loan Defaulter Systems](https://github.com/piyush8227/Portfolio_Projects/tree/main/Loan%20Defaulter%20System)
-5. [Titanic Survival Prediction](https://github.com/piyush8227/Portfolio_Projects/tree/main/Titanic%20Data%20Mini%20Project)
-6. [Data Science Salaries 2023 Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Data%20Science%20Salaries%202023)
-7. [Premier League Club Investment Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Premier-League-Club-Investment)
-8. [Diwali Sales Analysis Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Diwali%20Sales%20Data)
-9. [Madhav Ecommerce sales](https://github.com/piyush8227/Portfolio_Projects/tree/main/Madhav%20Ecommerce%20Sales)
-10. [Airbnb House renting data analysis project.](https://github.com/piyush8227/Portfolio_Projects/tree/main/Airbnb)
-11. [International Debt statistics](https://github.com/piyush8227/Portfolio_Projects/tree/main/Analyze_International_Debt_Statistics)
+2. [Student Performance Indicator using ML-Models](https://github.com/piyush8227/Student-Performance-Indicator-using-ML-Models)
+3. [Deep Harvest: Deep Learning Approaches for Rice Grain Classification](https://github.com/piyush8227/Rice-Grain-Image-Classification-Task)
+4. [Hotel Resevation Classification Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Hotel%20Reservation%20Project)
+5. [Loan Defaulter Systems](https://github.com/piyush8227/Portfolio_Projects/tree/main/Loan%20Defaulter%20System)
+6. [Titanic Survival Prediction](https://github.com/piyush8227/Portfolio_Projects/tree/main/Titanic%20Data%20Mini%20Project)
+7. [Data Science Salaries 2023 Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Data%20Science%20Salaries%202023)
+8. [Premier League Club Investment Analysis project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Premier-League-Club-Investment)
+9. [Diwali Sales Analysis Project](https://github.com/piyush8227/Portfolio_Projects/tree/main/Diwali%20Sales%20Data)
+10. [Madhav Ecommerce sales](https://github.com/piyush8227/Portfolio_Projects/tree/main/Madhav%20Ecommerce%20Sales)
+11. [Airbnb House renting data analysis project.](https://github.com/piyush8227/Portfolio_Projects/tree/main/Airbnb)
+12. [International Debt statistics](https://github.com/piyush8227/Portfolio_Projects/tree/main/Analyze_International_Debt_Statistics)

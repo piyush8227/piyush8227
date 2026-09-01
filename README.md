@@ -1,19 +1,87 @@
-### Hi there 👋, my name is Piyush
-#### I'm working as a Machine Learning Engineer at SHG Technologies in Bengaluru, India. 
+# Hi, I'm Piyush More 👋
 
-![LinkedIn cover](https://github.com/piyush8227/piyush8227/assets/78916771/ae43308c-ae47-4f21-a749-57c35f154a73)
+### Machine Learning Engineer | GenAI • Agentic AI • Computer Vision
 
+I build **AI systems that move beyond experimentation toward real-world applications** — from training and evaluating machine learning models to building LLM workflows, RAG systems, AI agents, and production-oriented inference pipelines.
 
-I am a **Post Graduate Degree** holder and **Gold Medalist** at MIT WPU, Pune.
+My engineering interests currently sit at the intersection of **Machine Learning, Generative AI, Agentic AI, Computer Vision, and AI system design**.
 
-I have pursued my Graduation in Computer Science Engineering and Post Graduation in Artificial Intelligence and Machine Learning.
+---
 
-I have experience using technologies such as Python, SQL, Tensorflow, LiteRT(Tensorflow Lite), Keras, Langchain & Langgraph, Groq, Phidata, Streamlit.
+### 👨‍💻 What I Work On
 
-Currently I'm learning about Agentic AI & AI Agents and their application to solve real world problems.
+* **Machine Learning & Deep Learning** — data preparation, training, evaluation, error analysis, optimization, and inference
+* **Computer Vision** — object detection, image classification, OCR-assisted pipelines, and edge deployment
+* **Generative AI & RAG** — retrieval pipelines, vector search, prompt engineering, evaluation, and grounded generation
+* **Agentic AI** — tool-using agents, multi-agent workflows, orchestration, state management, and human-in-the-loop systems
+* **AI Engineering** — modular Python applications, APIs, testing, deployment, CI/CD, observability, and production-oriented workflows
 
-Skills: Python | SQL | MySQL | Machine Learning | Deep Learning | Agentic AI | AI Agents | Langchain & LangGraph | Streamlit 
+---
 
+### 🧠 Engineering Philosophy
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush8227)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-more/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/piyushm8227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Piyush_9034)  
+I enjoy working on AI problems end-to-end:
 
+**Problem → Data → Experimentation → Evaluation → Optimization → Deployment → Monitoring**
+
+I am particularly interested in understanding not only **whether an AI system works**, but also:
+
+* Why it works
+* Where it fails
+* How reliably it performs
+* How efficiently it can run
+* How it can be improved and maintained in production
+
+---
+
+### 🛠️ Technology Stack
+
+**Languages**
+Python • SQL
+
+**Machine Learning & Computer Vision**
+TensorFlow • Keras • LiteRT / TensorFlow Lite • YOLO • OpenCV • Scikit-learn
+
+**Generative & Agentic AI**
+LangChain • LangGraph • AutoGen • RAG • LLM APIs • Groq
+
+**Data & Retrieval**
+Vector Databases • Embeddings • Semantic Search • Retrieval & Re-ranking
+
+**Application & Engineering**
+FastAPI • Streamlit • Git • GitHub Actions • Docker
+
+---
+
+### 🔬 Currently Exploring
+
+My current focus is on building stronger **production-grade Agentic AI and RAG systems**, particularly around:
+
+* Agent orchestration and multi-agent architectures
+* LLM and RAG evaluation
+* Guardrails and reliable AI workflows
+* Tool use and structured outputs
+* Memory and state management
+* Human-in-the-loop systems
+* AI observability
+* Testing and CI/CD for AI applications
+
+---
+
+### 🚀 Selected Work
+
+My repositories cover projects across:
+
+**Agentic AI • RAG • LLM Applications • Computer Vision • Machine Learning • AI Automation**
+
+I am currently rebuilding and documenting my portfolio with a stronger emphasis on **architecture, reproducibility, evaluation, testing, and deployment**.
+
+---
+
+### 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/piyushm9034/) • [GitHub](https://github.com/piyush8227)
+
+---
+
+> **Build. Evaluate. Improve. Ship.**

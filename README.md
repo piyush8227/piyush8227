@@ -41,13 +41,13 @@ Alongside production ML, I am currently going deeper into building reliable **Ge
 
 ## 🚀 Featured Engineering Projects
 
-| Project               | Engineering Focus                                               | Core Stack                    |
-| --------------------- | --------------------------------------------------------------- | ----------------------------- |
-| **SnP Image Labeler** | Internal ML annotation and benchmarking tooling                 | Python, PyQt5, OCR            |
-| **Edge Vision AI**    | Object detection, classification and optimized edge inference   | YOLO, TensorFlow Lite, OpenCV |
-| **AutoCodeGPT**       | Multi-agent code generation, execution, review and validation   | Python, AutoGen, Docker       |
-| **AutoBlogGPT**       | Agentic content generation with evaluator feedback loops        | LangGraph, LangChain, Groq    |
-| **Agentic AI Lab**    | Experiments with agent architectures and orchestration patterns | LangGraph, LangChain, AutoGen |
+| Project                             | Engineering Focus                                               | Core Stack                         |
+| ---------------------               | --------------------------------------------------------------- | -----------------------------      |
+| **SnP-Image-Labeler**               | ML dataset annotation, segregation and ground-truth tooling     | Python, PyQt5                      |
+| **Edge Vision AI**                  | Object detection, classification and optimized edge inference   | YOLO, TensorFlow Lite, OpenCV      |
+| **AutoCode Agent**                  | Multi-agent code generation, execution and iterative correction | Python, AutoGen, Docker            |
+| **Multilingual Recipe Blog Writer** | LangGraph-based multilingual LLM workflow orchestration         | LangGraph, LangChain, Groq         |
+| **Rice Grain Classification**       | Deep-learning model comparison for image classification         | TensorFlow, Keras, Computer Vision |
 
 ---
 

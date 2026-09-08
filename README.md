@@ -1,222 +1,166 @@
-<h1 align="center">Hi, I'm Piyush More 👋</h1>
+<p align="center">
+  <img src="./github-banner.png" alt="Piyush More GitHub Banner" width="100%">
+</p>
+
+<h1 align="center">Piyush More</h1>
 
 <h3 align="center">
-Machine Learning Engineer | Edge AI • Computer Vision • RAG • Agentic AI
+Machine Learning Engineer
 </h3>
 
 <p align="center">
-I build AI systems that move from experimentation to real-world deployment - from lightweight vision models running on edge devices to RAG pipelines and multi-agent AI workflows.
+Edge AI • Computer Vision • RAG • Agentic AI
+</p>
+
+<p align="center">
+Building production-oriented AI systems from model development and edge deployment
+to retrieval pipelines and autonomous agent workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyushm9034/">LinkedIn</a>
+  •
+  <a href="mailto:piyush9034more@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm a **Machine Learning Engineer at SHG Technologies**, working on production AI systems for **Smart Vision Glasses**, an assistive AI platform designed to run intelligent features directly on mobile edge hardware.
+I'm a **Machine Learning Engineer at SHG Technologies**, building production AI systems for Smart Vision Glasses - an assistive AI platform running intelligent features directly on mobile edge hardware.
 
-My work spans the complete ML lifecycle:
+My work spans the complete machine learning lifecycle:
 
-**Data → Training → Evaluation → Optimization → Edge Deployment → Benchmarking**
+**Data → Training → Evaluation → Optimization → Deployment → Benchmarking**
 
-I have worked on **10+ ML models and AI features**, including computer vision, classification, OCR-assisted pipelines, edge inference, model optimization, and internal AI tooling.
+I have worked across **computer vision, edge ML, model optimization, OCR-assisted pipelines, ML evaluation tooling, RAG systems, and Agentic AI workflows**.
 
-Alongside production ML, I am actively building **Generative AI and Agentic AI systems** using LangGraph, LangChain, RAG, vector databases, tool-using agents, and multi-agent orchestration.
-
----
-
-## ⚙️ What I Build
-
-### 🧠 Machine Learning & Edge AI
-
-* Lightweight ML and deep learning models for real-world applications
-* On-device inference pipelines with no cloud dependency at runtime
-* Model optimization using quantization and edge-focused deployment strategies
-* Dataset curation, preprocessing, training, evaluation, and error analysis
-* Model benchmarking for latency, accuracy, and runtime performance
-
-### 👁️ Computer Vision
-
-* Object detection and image classification
-* OCR-assisted vision pipelines
-* Real-time computer vision systems
-* TensorFlow Lite / LiteRT model deployment
-* Edge inference for mobile hardware
-
-### 🤖 Generative & Agentic AI
-
-* RAG pipelines and retrieval systems
-* LangGraph-based agent workflows
-* Multi-agent orchestration
-* Tool-using AI agents
-* Iterative generation and self-evaluation workflows
-* Structured outputs and workflow state management
-
-### 🛠️ AI Engineering
-
-* Python-based AI applications
-* Internal AI/ML tooling
-* FastAPI and Streamlit applications
-* Dockerized environments
-* Modular and maintainable ML codebases
-* Evaluation-oriented AI workflows
+Alongside production ML, I am currently going deeper into building reliable **GenAI and Agentic AI systems** using LangGraph, LangChain, RAG, vector databases, tool-using agents, and multi-agent orchestration.
 
 ---
 
-## 🚀 Production Work
+## 🚀 Featured Engineering Projects
 
-At SHG Technologies, I work on AI systems powering **Smart Vision Glasses**.
-
-Some areas I have contributed to include:
-
-* Developed and shipped **10+ ML models and AI-powered features**
-* Built lightweight inference pipelines that execute directly on mobile edge hardware
-* Optimized models for **sub-100 ms on-device inference**
-* Reduced reliance on cloud inference across multiple AI pipelines
-* Improved model performance through dataset curation, architecture tuning, and edge-specific optimization
-* Built internal tooling to support systematic ML evaluation and benchmarking
-* Prototyped context-aware and agentic AI workflows using LangGraph and LangChain
+| Project               | Engineering Focus                                               | Core Stack                    |
+| --------------------- | --------------------------------------------------------------- | ----------------------------- |
+| **SnP Image Labeler** | Internal ML annotation and benchmarking tooling                 | Python, PyQt5, OCR            |
+| **Edge Vision AI**    | Object detection, classification and optimized edge inference   | YOLO, TensorFlow Lite, OpenCV |
+| **AutoCodeGPT**       | Multi-agent code generation, execution, review and validation   | Python, AutoGen, Docker       |
+| **AutoBlogGPT**       | Agentic content generation with evaluator feedback loops        | LangGraph, LangChain, Groq    |
+| **SmartLearn RAG**    | Retrieval pipeline, semantic search and grounded generation     | RAG, Qdrant, LangChain        |
+| **Agentic AI Lab**    | Experiments with agent architectures and orchestration patterns | LangGraph, LangChain, AutoGen |
 
 ---
 
-## 🧰 Internal ML Tooling
+## ⚙️ What I Work On
 
-### SnP Image Labeler
+### Machine Learning & Edge AI
 
-Built a production-oriented desktop annotation and benchmarking tool using **Python + PyQt5**.
+* Model training, evaluation and error analysis
+* Dataset curation and preprocessing
+* Quantization and edge optimization
+* Mobile inference pipelines
+* Accuracy and latency benchmarking
+* Production-oriented model deployment
 
-The tool supports:
+### Computer Vision
 
-* Bounding-box annotation
-* Configurable telemetry fields
-* Structured CSV and JSON exports
-* Crash-safe atomic writes
-* Image caching
-* Keyboard-driven annotation workflows
-* Thumbnail queue navigation
-* Ground-truth generation for ML pipeline benchmarking
+* Object detection
+* Image classification
+* OCR-assisted pipelines
+* Real-time vision systems
+* YOLO-based workflows
+* TensorFlow Lite / LiteRT deployment
 
-The tool enables structured validation of inference outputs across **10+ ML feature pipelines**.
-
----
-
-## 🧪 Selected AI Projects
-
-### AutoBlogGPT
-
-An agentic content-generation workflow that generates, evaluates, and improves its own output through iterative feedback.
-
-**Concepts:**
-LangGraph • Multi-step orchestration • LLM evaluation • Feedback loops • SEO refinement
-
----
-
-### AutoCodeGPT
-
-A multi-agent AI system designed to generate, review, execute, and validate Python code.
-
-**Concepts:**
-Multi-Agent Systems • Code Generation • Execution • Validation • Agent Collaboration
-
----
-
-### RAG & Retrieval Systems
-
-Experimenting with end-to-end retrieval systems involving:
+### Generative AI & RAG
 
 * Document ingestion
-* Chunking strategies
+* Chunking and metadata design
 * Embeddings
 * Vector search
 * Retrieval
 * Re-ranking
 * Grounded generation
-* Evaluation
+* RAG evaluation
+
+### Agentic AI
+
+* LangGraph workflows
+* Multi-agent systems
+* Tool calling
+* Planner–executor architectures
+* Evaluation and feedback loops
+* State and memory
+* Human-in-the-loop systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technology Stack
 
-### Languages
+### Core
 
 `Python` `SQL`
 
-### Machine Learning & Computer Vision
+### Machine Learning & Vision
 
-`TensorFlow` `Keras` `LiteRT / TensorFlow Lite` `YOLO` `OpenCV` `Scikit-learn`
+`TensorFlow` `Keras` `YOLO` `OpenCV` `Scikit-learn` `TensorFlow Lite`
 
-### Generative AI
+### Generative & Agentic AI
 
-`LangGraph` `LangChain` `RAG` `OpenAI API` `Groq` `Claude Code` `Codex`
+`LangGraph` `LangChain` `AutoGen` `RAG` `OpenAI API` `Groq`
 
-### Vector Databases
+### Retrieval
 
-`Pinecone` `Weaviate` `Milvus` `FAISS`
+`Qdrant` `Pinecone` `Weaviate`
 
-### AI Application Development
+### Application Development
 
 `FastAPI` `Streamlit` `PyQt5`
 
 ### Engineering
 
-`Git` `GitHub` `Docker`
+`Git` `GitHub` `Docker` `Prompt Engineering` `Context Engineering`
 
 ---
 
-## 🔬 Current Focus
+## 🏗️ Production Engineering Experience
 
-I'm currently going deeper into building **reliable production-grade Agentic AI systems**, with particular focus on:
+At SHG Technologies, I work on production ML systems powering Smart Vision Glasses.
 
-* Multi-agent architectures
-* Agent orchestration
-* RAG evaluation
-* LLM evaluation
-* Retrieval quality
-* Guardrails
-* Human-in-the-loop workflows
-* Tool calling
-* Memory and state management
-* AI observability
-* Testing and CI/CD for AI systems
+Some areas I have contributed to:
+
+* Developed and shipped **10+ ML models and AI-powered features**
+* Built lightweight inference pipelines running directly on mobile edge hardware
+* Optimized models for **sub-100 ms on-device inference**
+* Reduced dependency on cloud inference across multiple ML pipelines
+* Improved model performance through dataset curation and architecture tuning
+* Built internal ML tooling for structured model evaluation and benchmarking
+* Prototyped Agentic AI features using LangGraph and LangChain
 
 ---
 
-## 🧭 Engineering Approach
+## 🛠️ ML Tooling
 
-I prefer building AI systems with a simple principle:
+### SnP Image Labeler
 
-> **A useful AI system should not only produce good outputs — it should be measurable, reliable, maintainable, and deployable.**
+A desktop annotation and benchmarking application built using **Python + PyQt5**.
 
-My goal is to understand every system beyond the model itself:
+Key capabilities:
 
-**Architecture → Failure Modes → Evaluation → Latency → Reliability → Deployment**
+* Bounding-box annotation
+* Configurable telemetry fields
+* CSV and JSON export
+* Crash-safe writes
+* Image caching
+* Keyboard-driven workflows
+* Thumbnail queue navigation
+* Image Segregation
+* Data Splitting in structured format
 
----
-
-## 📌 Portfolio Direction
-
-I'm currently rebuilding this GitHub portfolio around a smaller set of high-quality engineering projects.
-
-The focus is on showing:
-
-* Clear architecture
-* Clean code
-* Reproducible setup
-* Evaluation
-* Testing
-* Deployment
-* CI/CD
-* Engineering decisions
-* Real-world trade-offs
-
----
-
-## 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/piyushm9034/)
-[GitHub](https://github.com/piyush8227)
+The tool supports structured ground-truth generation and validation across **10+ ML feature pipelines**.
 
 ---
 
 <p align="center">
-<b>Build. Evaluate. Improve. Ship.</b>
+  <b>Build. Evaluate. Improve. Ship.</b>
 </p>

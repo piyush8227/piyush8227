@@ -47,7 +47,6 @@ Alongside production ML, I am currently going deeper into building reliable **Ge
 | **Edge Vision AI**    | Object detection, classification and optimized edge inference   | YOLO, TensorFlow Lite, OpenCV |
 | **AutoCodeGPT**       | Multi-agent code generation, execution, review and validation   | Python, AutoGen, Docker       |
 | **AutoBlogGPT**       | Agentic content generation with evaluator feedback loops        | LangGraph, LangChain, Groq    |
-| **SmartLearn RAG**    | Retrieval pipeline, semantic search and grounded generation     | RAG, Qdrant, LangChain        |
 | **Agentic AI Lab**    | Experiments with agent architectures and orchestration patterns | LangGraph, LangChain, AutoGen |
 
 ---

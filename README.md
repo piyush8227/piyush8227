@@ -39,7 +39,7 @@ Alongside production ML, I am currently going deeper into building reliable **Ge
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Engineering Project Repo's
 
 | Project                             | Engineering Focus                                               | Core Stack                         |
 | ---------------------               | --------------------------------------------------------------- | -----------------------------      |
@@ -48,6 +48,91 @@ Alongside production ML, I am currently going deeper into building reliable **Ge
 | **AutoCode Agent**                  | Multi-agent code generation, execution and iterative correction | Python, AutoGen, Docker            |
 | **Multilingual Recipe Blog Writer** | LangGraph-based multilingual LLM workflow orchestration         | LangGraph, LangChain, Groq         |
 | **Rice Grain Classification**       | Deep-learning model comparison for image classification         | TensorFlow, Keras, Computer Vision |
+
+## 🚀 Featured Projects
+
+### 🧠 SnP Image Labeler
+
+**ML Dataset Engineering · Annotation Tooling · PyQt5**
+
+Desktop ML dataset preparation tool built with Python and PyQt5 for structured ground-truth generation, image annotation, dataset segregation, duplicate detection, and review workflows.
+
+**Highlights**
+
+* Configurable telemetry fields + bounding-box annotation
+* CSV / JSON ground-truth export
+* Train / Test / Validation dataset segregation
+* Exact + perceptual duplicate detection
+* Session recovery and atomic file writes
+* Optimized for large image queues with caching and lazy loading
+
+**Tech:** Python · PyQt5 · Computer Vision · Dataset Engineering · SHA-256 · Perceptual Hashing
+
+[View Repository](https://github.com/piyush8227/SnP-Image-Labeler)
+
+---
+
+### 🤖 AutoCode Agent
+
+**Multi-Agent Systems · Code Execution · AutoGen**
+
+Agentic coding workflow that separates problem solving from code execution. A reasoning agent generates and improves Python solutions while a dedicated execution agent runs the code inside an isolated Docker environment.
+
+**Highlights**
+
+* Multi-agent orchestration with Microsoft AutoGen
+* Problem Solver + Code Executor agents
+* Docker-isolated Python execution
+* Iterative error correction
+* Automated test-case generation
+* Streaming agent interactions
+* Controlled workflow termination
+
+**Tech:** Python · AutoGen · Docker · OpenAI API · Streamlit · AsyncIO
+
+[View Repository](https://github.com/piyush8227/AutoCode-Agent)
+
+---
+
+### 🌐 Multilingual Recipe Blog Writer
+
+**LangGraph · LLM Orchestration · Multilingual Generation**
+
+Structured LangGraph workflow that decomposes recipe-blog generation into specialized AI stages instead of relying on a single large prompt.
+
+**Highlights**
+
+* LangGraph-based orchestrator-worker workflow
+* Specialized generation nodes
+* Shared workflow state
+* Modular prompt architecture
+* Multilingual generation in English, Hindi, Marathi, Tamil, and Gujarati
+* Streamlit interface with session-based generation history
+
+**Tech:** Python · LangGraph · LangChain · Groq · Streamlit · Pydantic
+
+[View Repository](https://github.com/piyush8227/Multilingual-Recipe-Blog-Writer)
+
+---
+
+### 👁️ Rice Grain Image Classification
+
+**Computer Vision · Deep Learning · Model Benchmarking**
+
+Deep-learning image classification project comparing multiple transfer-learning architectures for five-class rice grain classification on a large image dataset.
+
+**Highlights**
+
+* 25,000-image dataset
+* Five rice-grain categories
+* Compared VGG16, VGG19, ResNet, DenseNet, Inception, Xception, and MobileNet
+* Image preprocessing and normalization
+* Model performance comparison
+* Classification-focused deep-learning experimentation
+
+**Tech:** Python · TensorFlow · Keras · Deep Learning · Computer Vision · Scikit-learn
+
+[View Repository](https://github.com/piyush8227/Rice-Grain-Image-Classification-Task)
 
 ---
 
